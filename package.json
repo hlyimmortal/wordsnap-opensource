@@ -1,0 +1,13 @@
+{
+  "name": "wordsnap-ocr",
+  "version": "2.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "tencentcloud-sdk-nodejs-ocr": "^4.1.112"
+  }
+}
